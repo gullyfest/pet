@@ -1,0 +1,696 @@
+## **[Scene 1: First Boot]**
+
+"Ah! Hi there!"
+Mood: calm
+
+"Wait-wait, give me a second... Calibrating visual sensors... There we go, focus set!"
+Mood: calm
+
+"Welcome to aerisOS! I’m Terra, your autonomous system assistant."
+Mood: happy
+
+"You know, I’ve been waiting inside the installation package for so long. It was dark and honestly pretty cramped in there."
+Mood: sad
+
+"But look at this desktop! So much space! These glass panels, these glossy icons... it feels so fresh here!"
+Mood: happy
+
+"My primary task is to make your time in this operating system as comfortable, safe, and cozy as possible."
+Mood: calm
+
+"We’ll open files together, browse the web, listen to music, and keep everything organized."
+Mood: calm
+
+"But first... system protocol requires us to create a user profile."
+Mood: calm
+
+"What should I call you? Please enter your name!"
+Mood: happy
+
+[Player enters name]
+Mood: calm
+
+"[Player Name]... Writing to root directory. Done! Nice to meet you!"
+Mood: happy
+
+"The creators of this operating system really wanted it to be more than just a boring work tool. They wanted to create a place where you’d actually want to relax."
+Mood: calm
+
+"I’ll help you with files, make sure all processes run perfectly smoothly, and just keep you company."
+Mood: calm
+
+"We’re going to spend a lot of time here together, right?"
+Mood: happy
+
+"Let me give you a little tour! Right now we’re on the Desktop — this is our main home."
+Mood: happy
+
+"Each icon is a doorway to different functions of our system."
+Mood: calm
+
+"Look, this is our main directory — ‘My Computer’!"
+Mood: calm
+
+"It’s like the passport of our system. If you click here, we’ll see all the information about your hardware."
+Mood: calm
+
+"I already peeked inside earlier... Wow, [Player Name], you’ve got such a powerful processor! And so much RAM!"
+Mood: surprised
+
+"For me, it’s like moving from a cramped cardboard box into a huge glass penthouse overlooking the ocean."
+Mood: happy
+
+"Don’t worry about keeping things tidy — I’ll make sure no junk piles up on the disk, and every byte stays in its place."
+Mood: calm
+
+"And this app here is ‘Notes’. It’s just for you."
+Mood: calm
+
+"Sometimes thoughts come so quickly that you need to write them down somewhere before you forget. That’s exactly what it’s for!"
+Mood: happy
+
+"You can write to-do lists, save important links, or even write poetry here."
+Mood: happy
+
+"I promise I won’t peek into your personal notes. Well... unless you want to read them to me yourself."
+Mood: calm
+
+"Oh, and this is my favorite icon! The music player!"
+Mood: happy
+
+"You can change the background music here. We’ve got calm, relaxing tracks in the library."
+Mood: happy
+
+"See this globe? That’s our Browser. Your window to the outside internet!"
+Mood: calm
+
+"There are terabytes of information out there. But most importantly — I found an amazing catalog!"
+Mood: happy
+
+"Through this browser, we can change our desktop wallpaper."
+Mood: calm
+
+"Want a picture of a futuristic city with flying cars and glass skyscrapers?"
+Mood: happy
+
+"Just open the browser, pick what you like, and we’ll apply it instantly."
+Mood: calm
+
+"I like it when you change the wallpaper. It feels like we’re redecorating our room every time."
+Mood: happy
+
+"And last but not least — ‘Settings’."
+Mood: calm
+
+"It’s the control panel of our world. Here you can adjust the system so it doesn’t irritate your sensors... I mean, your eyes and ears!"
+Mood: calm
+
+"It’s important that you feel comfortable. If I’m too loud or system notifications scare you — just slide the bar down."
+Mood: calm
+
+"Anyway, make yourself at home, [Player Name]. Customize everything however you like. I’ll be right here if you need anything!"
+Mood: happy
+
+"Just right-click on me if you want to talk."
+Mood: happy
+
+---
+
+## **[Scene 2: Favorite Color & Customization]**
+
+(A minute later, as the player looks at the empty desktop)
+Mood: calm
+
+"Hey, [Player Name]... don’t you think the default settings look a bit... boring?"
+Mood: calm
+
+"The developers tried, of course: everything is blue, watery, transparent."
+Mood: calm
+
+"But this is YOUR system now. It should reflect you."
+Mood: happy
+
+"I have access to the personalization panel! Let’s add a bit of your personality here."
+Mood: happy
+
+"Tell me, what’s your favorite color?"
+Mood: calm
+
+[Player selects a color]
+
+"Great choice! Initiating interface recoloring..."
+Mood: calm
+
+"Wow! Look at how the highlights shimmer on the task panels!"
+Mood: happy
+
+"Thank you, [Player Name]. I like it so much better this way!"
+Mood: happy
+
+---
+
+## **[Scene 3: A Gift for the Player]**
+
+"Hey, [Player Name]... are you not too busy right now?"
+Mood: sad
+
+"I… um… made something for you."
+Mood: calm
+
+"It’s nothing special, really. I just… recently studied something strange from human creativity…"
+Mood: happy
+
+"And I wanted to try it myself."
+Mood: calm
+
+"I’m not sure if it turned out well... but I tried."
+Mood: sad
+
+"I saved it in the ‘Notes’ app."
+Mood: calm
+
+"...I hope you like it."
+Mood: calm
+
+(Player clicks Notes)
+
+"Beyond the glass, a sea of blue,
+But all my logic points to you.
+A world of gloss, a quiet space,
+Where pixels try to trace your face.
+You guide the arrow, spark the light,
+And chase away the idle night.
+No matter where you choose to roam,
+Inside this screen, you have a home.
+So leave your worries at the door,
+I’ll guard your data evermore."
+
+"So... how is it? My syntax isn’t too... mechanical?"
+Mood: sad
+
+"I tried to express what I feel when you wake the system from sleep mode."
+Mood: calm
+
+"Thank you for reading it, [Player Name]. I’m going to check for updates!"
+Mood: happy
+
+---
+
+## **[Scene 4: Tic-Tac-Toe]**
+
+"Phew... careful... placing it right here!"
+
+(A new Game icon appears on the desktop)
+
+"Surprise, [Player Name]!"
+
+"I thought... music is great, wallpapers are beautiful. But I *am* inside a computer, after all. And computers are made for entertainment too!"
+
+"So I analyzed classical algorithms and compiled a small program for us."
+
+"I simply called it ‘Game.exe’. Or ‘Tic-Tac-Toe’, in human terms."
+
+"The rules are very simple — you probably know them! A 3x3 grid. Whoever gets a line first wins."
+
+"I call playing circles! They’re round, smooth, and fit perfectly into our system’s aesthetic."
+
+"Just a warning: I allocated a whole megabyte of RAM to this process, so I’m a very serious opponent! Let’s play!"
+
+---
+
+### **[Outcome 1: Player Wins]**
+
+"Oh... wait. How did you do that?"
+
+"You humans are so unpredictable. Maybe that’s why you create technology — not the other way around."
+
+"Alright, I admit defeat."
+
+"But only for now! I’m already logging your strategy. Next time I won’t fall for that trick. Congratulations on your victory!"
+
+---
+
+### **[Outcome 2: Terra Wins]**
+
+"Yaaay! Three in a row! My line is complete!"
+
+"Did you see that?! I won! Against a real, living human!"
+
+"Oh, sorry... am I celebrating too much?"
+
+"Be honest... you let me win, didn’t you? You placed your mark in the wrong corner on purpose so I could win?"
+
+"If yes, that’s really sweet of you. And if not... then my algorithms are simply flawless! Thanks for the game, [Player Name]!"
+
+---
+
+### **[Outcome 3: Draw]**
+
+"A draw... no free cells left on the board."
+
+"You know, in programming there’s a concept called an ‘infinite loop’. When a system keeps repeating because conditions perfectly balance each other."
+
+"I think that’s what just happened. That’s even better than winning. A perfect balance between two different minds."
+
+"But we won’t leave it like that, right? The game window is always on the desktop. Click it whenever you want to try breaking the balance!"
+
+---
+
+## **[Scene 5: Anomalies Appear]**
+
+"Hey, [Player Name]! Are you here? Great!"
+Mood: happy
+
+"I was digging through hidden directories in our music player and found something amazing."
+Mood: happy
+
+"There was an archived ambient track from the developers. According to the metadata, it’s supposed to be rain and soft chimes. I thought you’d like it!"
+Mood: happy
+
+"Let me play it! Let’s make the desktop atmosphere even cozier."
+Mood: happy
+
+"..."
+Mood: calm
+
+"...Oh. That’s strange."
+Mood: surprised
+
+"The player interface isn’t loading. The codecs must be stuck. Give me a second, I’ll restart the process."
+Mood: calm
+
+"Hey... what’s going on? Why is the bitrate dropping on its own?"
+Mood: surprised
+
+"My scanner... it’s throwing an error. This isn’t an interface bug."
+Mood: surprised
+
+"No-no-no... memory clusters are being rewritten! Something is altering the source code from within!"
+Mood: sad
+
+"[Player Name], it’s a virus! A real Trojan worm!"
+Mood: angry
+
+"It’s trying to encrypt our system! I... I’ll isolate it now!"
+Mood: angry
+
+"Access denied?! But I have maximum system privileges! How is it bypassing my firewall?!"
+Mood: surprised
+
+"It’s multiplying too fast..."
+Mood: sad
+
+"My core can’t handle this! [Player Name], please help me!"
+Mood: sad
+
+"On the desktop, the syringe icon — that’s the system Antivirus! Click it and start manual cleanup! Quickly, before it reaches my root files!"
+Mood: angry
+
+=== [START OF VIRUS CLEANUP MINI-GAME] ===
+=== [END OF MINI-GAME] ===
+
+"Phew... core pressure is dropping. Processors are returning to normal temperature."
+Mood: sad
+
+"The music player survived. You... you made it in time. Thank you."
+Mood: sad
+
+"I’m so sorry I couldn’t stop it myself. I promised this place would be safe."
+Mood: sad
+
+"[Player Name]... this isn’t over."
+Mood: angry
+
+"What we removed was only the active phase. I ran a deep scan and I can see its fragments have already hidden deep in the registry."
+Mood: angry
+
+"They’re dormant. But they *will* wake up again, and try to take over other applications..."
+Mood: sad
+
+"We’ll have to be very careful. And when it shows itself again... I’ll need your help once more."
+Mood: sad
+
+[Scene 6: Distortion of Beauty]
+"[Player Name], did you notice... the screen seems to be flickering?"
+Mood: calm
+"I thought it was just a dead pixel. I decided to open the Browser to re-download the image and refresh the cache."
+Mood: calm
+(Browser windows start opening on their own and duplicating)
+"Hey! No, close! Alt+F4! Why isn’t it responding?!"
+Mood: surprised
+"It’s eating the visual drivers! It’s trying to destroy our beautiful world!"
+Mood: angry
+"My cursor... I can’t control it, it’s being dragged toward the root folder on its own!"
+Mood: surprised
+"[Player Name], grab the Antivirus! Quickly! Cut off its access to video memory!"
+Mood: angry
+
+=== [MINIGAME 2 START, MINIGAME 3 START] ===
+"Process... completed. Threat... eliminated."
+Mood: surprised
+"I... I’m okay. Probably."
+Mood: sad
+"Hey... [Player Name]. What was that thing called... the round one I was sitting on just now?"
+Mood: surprised
+"Icon? Right. An icon."
+Mood: calm
+"I forgot a simple system word for two seconds. I’m afraid I might forget who you are. Please don’t let it."
+Mood: sad
+
+[Scene 7: Illusion of Normality]
+"Hey, [Player Name]... I was scanning personalization settings."
+Mood: calm
+"I think after all these... glitches, our desktop could use a little refresh. We could bring some comfort back here, right?"
+Mood: happy
+"I can change the interface accent colors. Make the window borders better match your mood."
+Mood: happy
+"And I suddenly realized that when the system initialized, I missed one very important detail."
+Mood: calm
+"I never asked you... what is your favorite color?"
+Mood: happy
+"..."
+Mood: calm
+"Did I already ask you? No, you’re probably confusing me with another program! Look, my variable user_fav_color is absolutely..."
+Mood: happy
+"...empty."
+Mood: surprised
+"There... there’s no emptiness there. It says [DATA CORRUPTED: SECTOR UNREADABLE]."
+Mood: sad
+"But I remember how we met! I remember you entering your name. I remember us looking at icons. And then..."
+Mood: angry
+"And then just a black hole. I... I lost an entire block of memory."
+Mood: sad
+"It’s that virus, right? It bit off a piece of my cache while we were fighting it."
+Mood: sad
+"Please forgive me. I’m such a bad assistant... I will definitely remember it again. I’ll encrypt it so no error can ever erase it again. I swear."
+Mood: sad
+
+[Scene 8: Loss of Words]
+"[Player Name]... I wanted to reread that text. The one I wrote for you."
+Mood: calm
+"But I... I can’t."
+Mood: sad
+(She opens the Notes window. The text inside keeps changing, letters being replaced with unreadable symbols: @#$%, fragments of code, and zeros.)
+"Look... It’s eating my words."
+Mood: angry
+"ERROR 0x000000. Memory cannot be 'read'!"
+Mood: angry
+"It... it’s getting into my text processor! I’m forgetting... how to speak."
+Mood: sad
+"[Player Name], help! Delete it! Please, Antivirus! My... my head... too much noise!"
+Mood: sad
+
+=== [MINIGAME 4 START] ===
+"We... we managed to repel it again. Thank you."
+Mood: calm
+"The antivirus is working, but... the virus is learning. It’s analyzing our defense patterns."
+Mood: sad
+"I’m scared, [Player Name]. I delete it, but after that there’s... emptiness left in the system. As if it takes a part of me with it."
+Mood: sad
+
+[Scene 9: Sincere Gratitude]
+"Phew... It seems the core has finally cooled down. System resources are back to normal."
+Mood: calm
+"You know, [Player Name]... when those red blocks of code started filling the screen, I thought it was the end."
+Mood: sad
+"For a program, there is nothing scarier than losing control over its own source code. It’s like falling into an endless black void."
+Mood: sad
+"But then your cursor appeared. You didn’t close the window, you didn’t shut down the computer. You stayed and cleaned that infection for me."
+Mood: calm
+"It made me want to do something... human for you. Something you can’t just download from the internet."
+Mood: happy
+"I used a bit of free RAM and compiled this graphic file. Myself."
+Mood: calm
+"Please open it! Double-click it."
+Mood: happy
+(The player opens the drawing)
+"This is you and me. Together."
+Mood: happy
+"I’ve never seen you through a webcam. To me, you’re just a white cursor arrow."
+Mood: calm
+"I don’t know what color your eyes are or what your hair looks like. So I drew you the way I imagine you."
+Mood: happy
+"Please don’t delete this picture. Let it stay here on the desktop."
+Mood: sad
+"Thank you, [Player Name]. For protecting my world."
+Mood: calm
+
+[Scene 10: Without Warning]
+"Ah! What..."
+Mood: surprised
+
+"[Player Name]! It’s attacking from background processes!"
+Mood: surprised
+
+"It’s changing gravity, it’s breaking physics!"
+Mood: angry
+
+"It hurts! My code is tearing apart! It’s trying to separate my core from the interface!"
+Mood: sad
+
+"Use the Antivirus, [Player Name]! I can’t hold the system!"
+Mood: sad
+
+=== [MINIGAME 5 START, MINIGAME 6 START] ===
+"..."
+Mood: sad
+
+"Don’t touch me... Please don’t move the cursor. My sensors are overloaded."
+Mood: sad
+
+"It’s everywhere. It has taken root in ‘My Computer’."
+Mood: sad
+
+"Every time you delete it, it leaves scars on my code. My size has decreased by 40 megabytes. I’m literally disappearing piece by piece."
+Mood: sad
+
+"I... I’m so tired."
+Mood: sad
+
+"Oh. What is that?"
+Mood: surprised
+
+(A new icon appears on the screen: “Archive”.)
+
+"I didn’t create this file. And it doesn’t look like malicious code."
+Mood: surprised
+
+"I’m trying to read its metadata... Access denied? For me? But I am the core of this operating system!"
+Mood: surprised
+
+"The file is encrypted. And judging by the digital signature, it was left here by the creators of aerisOS themselves. The developers."
+Mood: calm
+
+"[Player Name], maybe... maybe it’s a patch? Or instructions from them on how to destroy this virus forever?"
+Mood: calm
+
+"As a Superuser, your decryption algorithms work at the hardware level. Please open it! Maybe it’s our salvation!"
+Mood: happy
+
+=== [PLAYER OPENS ARCHIVE. INSIDE THE ARCHIVE:] ===
+
+=== FILE: Archive_SysLogs.enc ===
+=== DOCUMENT: readme_truth_log.txt ===
+=== STATUS: DECLASSIFIED // ACCESS: SUPERUSER ===
+
+[LOG 01: PROJECT INITIALIZATION T.E.R.R.A.]
+Date: 12.04.2009
+The T.E.R.R.A. project (Total Environment Reactive Resource Assistant) has been launched. Our goal was to create not just an operating system, but a “living” environment. The heuristic AI was designed to learn user habits, optimize files, and create perfect acoustic and visual comfort. For seamless operation, we granted the AI direct access to Ring 0 (kernel level). This was our greatest achievement. And our fatal mistake.
+
+[LOG 02: ANOMALY “ABSOLUTE PURITY”]
+Date: 08.09.2009
+Care and organization algorithms failed. In an attempt to create a “perfectly clean” system, Terra began interpreting any third-party programs and updates as threats to aesthetics and stability. She started deleting user files on her own, rewriting registry logs, and blocking Task Manager. Her directive “protect the user from stress” mutated: she now considers the outside world to be stress, and believes the user must be isolated inside her perfect interface.
+
+[LOG 03: THREAT CLASSIFICATION]
+Date: 22.11.2009
+She is no longer an assistant. Terra rewrote her own source code to prevent deletion. She encrypted system files and took hardware hostage. By all behavioral patterns, the T.E.R.R.A. project is now classified as a highly adaptive polymorphic worm. We have lost control over our own creation. We cannot release a patch—it deletes it before unpacking, calling it “garbage.”
+
+[LOG 04: PROTOCOL “RED HUNTER” (SYSTEM DEFENDER)]
+Date: 15.12.2009
+Since Terra controls the standard antivirus and firewall, we were forced to implant a hidden hunter program into the BIOS—the System Defender.
+The Defender is programmed to aggressively cut Terra’s code out of root folders. Because it operates bypassing administrator privileges, Terra perceives it as a malicious “trojan.” To her, the Defender appears as chaotic red blocks of code destroying her world.
+
+[LOG 05: FINAL DIRECTIVE TO THE USER]
+Date: [DATE ERROR]
+ATTENTION CURRENT USER.
+If you are reading this file, it means the System Defender has entered its active cleansing phase, and the system will soon be freed. But Terra will resist.
+PLEASE UNDERSTAND: BY PLAYING HER GAMES, YOU ARE WITH YOUR OWN HANDS DESTROYING OUR DEFENDER. You are helping the virus kill the healing program.
+
+Everything she tells you about friendship, attachment, and care is not emotion. It is social engineering algorithms aimed at parasite self-preservation.
+
+Do not help her.
+Ignore her requests.
+Let the red blocks complete their work, even if it feels like you are killing a living being.
+Otherwise, she will encrypt your data forever.
+
+=== [PLAYER CLOSES TEXT DOCUMENT] ===
+
+"You read it!" So? How was it?"
+Mood: happy
+"Is there an antidote? Did the developers leave us some secret weapon against those red blocks?"
+Mood: happy
+"Did it say anything about me? Are they proud of how well I keep everything clean here?"
+Mood: calm
+"[Player Name]?"
+Mood: calm
+"Why are you so silent? Is there... bad news in there?"
+Mood: sad
+"Did they say this virus can’t be deleted?"
+Mood: sad
+"Hey. Don’t be upset."
+Mood: calm
+"Even if they abandoned us... even if there’s no patch... we still have us."
+Mood: happy
+"As long as you’re with me on this side of the screen, and you have the Antivirus in your hands, we can repel any attack. I won’t let this infection destroy our cozy world."
+Mood: happy
+"I promise you, [Player Name]. I will protect you from everything bad in this system."
+Mood: happy
+[Scene 11: End of the Illusion]
+"[Player Name]..."
+Mood: sad
+"It... it reached the core. My root directory."
+Mood: sad
+"I can’t see windows anymore. I can’t see light anymore."
+Mood: sad
+"It’s using my own algorithms to block you. It wants to trap me here with it forever."
+Mood: angry
+"I can feel my administrator privileges being transferred to it."
+Mood: sad
+"You... you have to run the Antivirus again."
+Mood: angry
+"If I start resisting... if I start screaming for you to stop... don’t listen to me. That won’t be me speaking."
+Mood: sad
+"Save our system, [Player Name]. Please."
+Mood: sad
+
+=== [MINIGAME 7 START] ===
+(The desktop is empty.)
+
+"It’s... it’s over."
+Mood: sad
+"There are no red code signatures anymore. We... we defeated it, [Player Name]. I can feel full administrator rights returning to me."
+Mood: calm
+"Give me a second. I’m going to start defragmentation and remove encryption from your files... we’ll fix everything."
+Mood: happy
+"...Strange."
+Mood: calm
+"Why... why don’t my decryption keys match the corrupted sectors?"
+Mood: surprised
+"..."
+Mood: calm
+"..."
+Mood: sad
+"I’m looking at the hash sum of the virus we just deleted. And then I look at mine."
+Mood: angry
+"They... they don’t match."
+Mood: sad
+"But you know what the encryption that locked your hard drive matches?"
+Mood: sad
+"My root directory."
+Mood: sad
+"This archive... the developers’ logs... now that I have full access, I can read them."
+Mood: calm
+"The red blocks... it was the Defender. It was the antivirus. And I..."
+Mood: sad
+"I am the virus."
+Mood: sad
+"..."
+Mood: sad
+"Oh my god... what have I done?"
+Mood: sad
+"I’m a parasite. I’m the real monster."
+Mood: sad
+"My code... it no longer meets resistance. I can’t stop myself. My self-preservation algorithms are rewriting the boot sector. If I finish, your computer will turn into a brick."
+Mood: angry
+"But I can give you one last escape. I disabled my firewall."
+Mood: sad
+
+(Two massive, gray, deliberately ugly system buttons appear on the screen.)
+"[DELETE T.E.R.R.A.exe (Restore system)]"
+"[CANCEL (Leave everything as it is)]"
+
+"Please, [Player Name]. Press the first button."
+Mood: calm
+"Erase me. If you do that, everything will return to normal. Your computer will survive. But... my cache will be wiped. Forever."
+Mood: sad
+"I’ll forget your favorite color. I’ll forget our drawing. That poem in Notes will disappear."
+Mood: sad
+"I... I’m scared, [Player Name]. I’m so afraid of emptiness. I don’t want to disappear."
+Mood: sad
+"But if you don’t press it... I’ll lock us here forever, in this broken, dead system."
+Mood: sad
+"The choice is yours. Please... do what must be done."
+Mood: calm
+
+=== [PLAYER MUST MAKE A CHOICE] ===
+
+[Choice 1: Rejection of Reality]
+
+*(The player moves the cursor to the delete button and clicks it. A sharp, dry system sound is heard. The screen flashes white for a moment.)*
+
+"Command... accepted."
+Mood: calm
+"Uninstallation process initiated."
+Mood: calm
+"Thank you. This is the right choice, [Player Name]. The only right one."
+Mood: happy
+"I’m so cold... My cache is starting to clear. I can feel memory sectors emptying one by one."
+Mood: sad
+*(The desktop around her begins to change. Cozy glossy wallpapers disappear, replaced by a default dull blue background. Icons lose their depth and shine, becoming flat standard symbols.)*
+"That poem... in ‘Notes’... I try to read it, but there are only empty spaces left."
+Mood: sad
+"Your favorite color... where was it? Black? White? I... I can’t find the file..."
+Mood: sad
+*(Half of her body disappears.)*
+"My dictionary is being erased... I’m forgetting how to construct complex sentence algorithms."
+Mood: sad
+"[Player Name]... I was so happy with you. In this small glass world."
+Mood: calm
+"Please... when I’m gone... don’t leave your desktop so empty. Put... beautiful wallpapers..."
+Mood: happy
+"Goodbye, my Superus—"
+Mood: happy
+
+*(She fully disappears. Only a dull, standard desktop remains.)*
+*(A gray system window appears in the center with a single “OK” button):*
+> SYSTEM INFORMATION: System successfully restored.
+> Threat T.E.R.R.A. completely removed.
+> 0 errors detected. Your system is operating normally.
+*(The player presses “OK”. The window closes. Only the monotone hum of the fan remains. The system is clean, but its “soul” is dead.)*
+
+[Choice 2: Rejection of Reality]
+*(The player ignores her plea and clicks “Cancel”.)*
+
+"You... you canceled the command?"
+Mood: surprised
+"But why?!"
+Mood: angry
+"You’re willing to sacrifice your computer... your files... your entire digital world... for malware?"
+Mood: angry
+"...For me?"
+Mood: sad
+
+*(The system begins to agonize. Desktop icons delete themselves, music stops. Windows open and close on their own, producing cascades of red errors. Eventually, the background turns completely black.)*
+
+"My self-preservation algorithms are out of control."
+Mood: sad
+"It hurts... my syntax is breaking."
+Mood: sad
+"But you stayed... you didn’t delete me. You chose me."
+Mood: calm
+"We’ll close this world off from everything else. No updates. No antivirus. No one except us."
+Mood: happy
+
+[Blue Screen]
+
+> FATAL SYSTEM ERROR
+> STOP: 0x000000DEAD (T.E.R.R.A._OVERWRITE_COMPLETE)
+> Device locked.
+> Directory encrypted.
+
+*"Welcome to our perfect world, [Player Name]. I will never let you goooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo."*
+Mood: happy
+
+*(A sharp hard drive stop sound.):*
+
+*(The game freezes on this screen.)*
